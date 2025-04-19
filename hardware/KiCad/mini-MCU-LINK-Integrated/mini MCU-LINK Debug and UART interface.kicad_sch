@@ -9502,7 +9502,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG3005AESFYL\n"
+		(property "Value" "PMEG3005AESFYL"
 			(at 157.48 168.91 0)
 			(effects
 				(font

@@ -758,7 +758,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 0364785e-cf8b-4c05-9fb6-c8723b7579f4)
     )
-    (fp_text value "PMEG3005AESFYL\n" (at 0 1.05) (layer "F.Fab")
+    (fp_text value "PMEG3005AESFYL" (at 0 1.05) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9da0a19c-65ba-44f2-845c-110cbefa61ac)
     )

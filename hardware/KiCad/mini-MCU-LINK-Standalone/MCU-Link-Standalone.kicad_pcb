@@ -10522,7 +10522,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG3005AESFYL\n"
+		(property "Value" "PMEG3005AESFYL"
 			(at 0 1.05 0)
 			(unlocked yes)
 			(layer "F.Fab")
