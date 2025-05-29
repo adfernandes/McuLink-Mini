@@ -1,5 +1,6 @@
-# McuLink-Mini
-Version of the NXP MCU-Link CMSIS-DAP Debug Probe with KiCad.
+# MCU-Link with KiCAD
+This repository hosts different versions of the original NXP MCU-Link CMSIS-DAP debug probe as open source KiCAD versions. Both as standalone probe or integrated into your design.
+
 Many thanks to *Dario Scheuber* and his work to make this project possible!
 
 ## Background
